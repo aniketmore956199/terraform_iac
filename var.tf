@@ -14,7 +14,7 @@ variable "skey" {
     default = ""
 }
 variable "pkey" {
-    default = "Linux-singapore key pair"
+    default = "Linux-Singapoore-2025"
 }
 variable "rpass" {
     default = "111"
